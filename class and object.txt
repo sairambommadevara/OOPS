@@ -1,0 +1,2 @@
+class:- class is nothing but a design whitch has variables and methods
+object :- is the instance of a class , model of a telephone is an object  object uses class variable and methods to perforam a task
